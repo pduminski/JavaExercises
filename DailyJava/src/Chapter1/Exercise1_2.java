@@ -1,4 +1,4 @@
-package Chapter1.Exercise2;
+package Chapter1;
 
 public class Exercise1_2 {
     public static void main(String[] args) {

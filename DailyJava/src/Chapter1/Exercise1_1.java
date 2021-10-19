@@ -1,4 +1,4 @@
-package Chapter1.Exercise1;
+package Chapter1;
 
 import java.io.*;
 
